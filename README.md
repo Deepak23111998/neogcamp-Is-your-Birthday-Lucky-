@@ -1,4 +1,4 @@
-## IsYourBirthdayLucky
+## Is Your Birthday Lucky
  
 #  See whether your birthday is lucky with the help of lucky number.Link Given below.
 
