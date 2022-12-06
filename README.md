@@ -1,5 +1,5 @@
-# isYourBirthdayLucky
+## IsYourBirthdayLucky
  
-want to know if your birthday is lucky for you or not? well, then i have something for you! an app that will tell you if your birthday is lucky or not with the help of your lucky number 😇
+#See whether your birthday is lucky with the help of lucky number.Link Given below.
 
-link -  https://birthday-luckyy.netlify.app/
+#[Link](https://is-your-birthday-lucky2311.netlify.app/)
